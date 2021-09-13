@@ -1,5 +1,5 @@
 const layersOrder = [
-    { name: 'background', number: 1 },
+    { name: 'background', number: 2 },
     { name: 'body', number: 1 },
     { name: 'head', number: 4 },
     { name: 'eyes', number: 3 },
