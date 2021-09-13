@@ -1,15 +1,15 @@
 const layersOrder = [
+    { name: 'background', number: 1 },
     { name: 'body', number: 1 },
-    
+    { name: 'head', number: 3 },
     { name: 'eyes', number: 3 },
-    { name: 'hats', number: 1 },
     { name: 'mouths', number: 3 },
     
 ];
   
 const format = {
-    width: 1080,
-    height: 1080
+    width: 230,
+    height: 230
 };
 
 const rarity = [
