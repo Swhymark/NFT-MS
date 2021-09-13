@@ -1,7 +1,7 @@
 const layersOrder = [
     { name: 'background', number: 1 },
     { name: 'body', number: 1 },
-    { name: 'head', number: 3 },
+    { name: 'head', number: 4 },
     { name: 'eyes', number: 3 },
     { name: 'mouths', number: 3 },
     
