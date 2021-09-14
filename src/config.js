@@ -12,8 +12,8 @@ const layersOrder = [
 ];
   
 const format = {
-    width: 230,
-    height: 230
+    width: 512,
+    height: 512
 };
 
 const rarity = [
