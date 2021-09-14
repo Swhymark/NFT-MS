@@ -1,10 +1,12 @@
 const layersOrder = [
-    { name: 'background', number: 2 },
+    { name: 'background', number: 1 },
+    { name: 'colours', number: 6 },
     { name: 'body', number: 1 },
     { name: 'eyes', number: 3 },
-    { name: 'hats', number: 4 },
+    { name: 'hats', number: 3 },
     { name: 'mouths', number: 3 },
-    { name: 'hands', number: 2 },
+    { name: 'ears', number: 3 },
+    
     
     
 ];
