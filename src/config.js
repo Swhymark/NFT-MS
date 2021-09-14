@@ -6,6 +6,7 @@ const layersOrder = [
     { name: 'hats', number: 11 },
     { name: 'mouths', number: 11 },
     { name: 'ears', number: 5 },
+    { name: 'platinum', number: 1000 },
     
     
     
